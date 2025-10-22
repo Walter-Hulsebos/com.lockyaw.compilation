@@ -1,0 +1,24 @@
+{
+  "name": "com.lockyaw.compilation",
+  "displayName": "Lockyaw.Compilation",
+  "version": "0.0.0",
+  "unity": "6000.0",
+  "author": {
+    "name": "Lockyaw",
+    "email": "contact@lockyaw.com",
+    "url": "https://www.lockyaw.com/"
+  },
+  "description": "Utilities for changing and tracking how Unity compiles",
+  "keywords": [
+	"zippy",
+	"zappy",
+    "zippyzappy",
+    "utility",
+	"util",
+	"compilation",
+	"compile",
+	"speed",
+	"fast"
+  ],
+  "documentationUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" 
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Lockyaw.Compilation",
+    "rootNamespace": "Lockyaw.Compilation",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
